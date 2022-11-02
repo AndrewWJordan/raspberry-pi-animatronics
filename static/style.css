@@ -1,0 +1,19 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: orange;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin-bottom: 2rem;
+}
+
+.btn {
+	background-color: black;
+}
